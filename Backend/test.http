@@ -1,0 +1,7 @@
+POST http://localhost:4001/POST  HTTP/1.1
+Content-Type: application/json;
+
+{
+"title":"Appmaster",
+"content":"this is starting"
+}
